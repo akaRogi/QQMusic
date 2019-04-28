@@ -135,16 +135,6 @@ export default {
     align-items: center;
     margin-bottom: 10px;
   }
-  /*.main li p:nth-child(1){*/
-    /*font-size: 20px;*/
-  /*}*/
-  /*.main li p:nth-child(2){*/
-    /*font-size: 16px;*/
-    /*color: #999;*/
-  /*}*/
-  /*.main li:nth-child(even){*/
-    /*margin-left: 10px;*/
-  /*}*/
   .main li img{
     width: 100%;
   }

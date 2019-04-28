@@ -57,7 +57,7 @@ export default {
     margin: 50px 10px 40px 10px;
   }
   .set h3{
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     font-size: 30px;
     font-weight: 400;
   }
